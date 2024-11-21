@@ -1,0 +1,21 @@
+system: "base16"
+name: "Cicada Dark"
+author: "tempurastick <papoujuice@gmail.com>"
+variant: "dark"
+palette:
+  base00: "171315" # ---- dark
+  base01: "272024" # ---
+  base02: "322A2F" # --
+  base03: "43393e" # -
+  base04: "ACA29A" # +
+  base05: "cec2bd" # ++
+  base06: "E5DFDC" # +++
+  base07: "F8F7F6" # ++++ light
+  base08: "933942" # red
+  base09: "e78c5b" # orange
+  base0A: "d2cb3e" # yellow
+  base0B: "5f7f54" # green
+  base0C: "6db7c3" # cyan
+  base0D: "5e80b2" # blue
+  base0E: "60a392" # purple
+  base0F: "a17740" # brown
